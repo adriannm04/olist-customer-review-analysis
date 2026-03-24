@@ -47,3 +47,5 @@ This project analyzes customer reviews from the Brazilian Olist e-commerce datas
 - Data visualization using **Matplotlib** and **Seaborn**
 
 ---
+
+![Late Delivery vs Bad Review Rate](late-delivery.png)
